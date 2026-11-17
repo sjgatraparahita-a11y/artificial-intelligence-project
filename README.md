@@ -1,5 +1,5 @@
 # artificial-intelligence-project
-Face Recognition Project for Artificial Intelligence Final Project
+Face Recognition Project for Artificial Intelligence Course
 ## Introduction
 This project was originally conceived as a method for recording attendance in class. The idea being that each student will stand in front of a small piece of hardware equipped with a small camera placed by the door. The camera will activate, recognize the student, and record attendance. The use case is only a hypothetical to apply knowledge of artificial intelligence and not in any way a real implementation. The project itself is only concerned with the actual facial recognition portion and not any of the supporting software and hardware.
 
